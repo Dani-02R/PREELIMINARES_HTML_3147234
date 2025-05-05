@@ -1,0 +1,26 @@
+.pregunta1{
+    background-color: rgb(202, 160, 214);
+}
+.pregunta2{
+    background-color: rgb(231, 158, 232);
+}
+.pregunta3{
+   color: rgb(251, 251, 251);
+}
+.pregunta4{
+    font-family:Arial, Helvetica, sans-serif
+ }
+ .pregunta6{
+    font-size: 20px;
+    background-color: rgb(159, 195, 250);
+ }
+ .pregunta7{
+   font-weight: bold;
+   color: rgb(50, 27, 185);
+   font-size: 30px;
+ }
+ .pregunta8{
+    font-size: 50px;
+    font-family: monospace;
+    color: aliceblue;
+ }
